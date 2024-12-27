@@ -1,4 +1,3 @@
-import React from 'react';
 import { Button } from '../ui/button';
 import { BsInstagram, BsTwitterX } from 'react-icons/bs';
 import { FaFacebook } from 'react-icons/fa';

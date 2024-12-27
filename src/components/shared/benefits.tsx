@@ -1,4 +1,3 @@
-import React from 'react';
 import { BiFoodMenu, BiFoodTag, BiPlanet } from 'react-icons/bi';
 
 const Benefit = () => {

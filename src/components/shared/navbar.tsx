@@ -1,4 +1,3 @@
-import React from 'react';
 import { BiCartAlt } from 'react-icons/bi';
 
 const Navbar = () => {

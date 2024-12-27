@@ -1,4 +1,3 @@
-import React from 'react';
 import { FocusCards } from '../ui/focus-cards';
 
 const Products = () => {
