@@ -50,7 +50,7 @@ const Footer = () => {
 					</div>
 					<div className='flex gap-x-2 items-center'>
 						<BiMailSend />
-						<p>Ada, Accra</p>
+						<p>Nezerdofarms@gmail.com</p>
 					</div>
 				</div>
 			</div>

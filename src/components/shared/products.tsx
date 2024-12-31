@@ -30,7 +30,7 @@ const Products = () => {
 	return (
 		<div className='mt-24 flex flex-col gap-5 w-full'>
 			<h1 className='text-center text-5xl font-bold'>Products</h1>
-			<FocusCards cards={cards} />;
+			<FocusCards cards={cards} />
 		</div>
 	);
 };
